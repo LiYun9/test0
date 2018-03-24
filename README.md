@@ -36,7 +36,7 @@ githubComments.load(repos, issues, element, noCommentsTip)
 
 | 参数 | 说明 | 示例 |
 | --- | --- | ---- |
-| repos | 项目地址 |[nimojs/blog](http://github.com/liyun9/test0) |
+| repos | 项目地址 |[liyun9/test0](http://github.com/liyun9/test0) |
 | issues| issues id | [1](https://github.com/liyun9/test0/issues/1)
 | element | 渲染容器 | `"#demo"` `document.getElementById('demo')` `$('#demo')` |
 
