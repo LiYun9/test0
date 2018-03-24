@@ -12,7 +12,7 @@
 ```html
 <style>.gc-comments {font:12px/1.5 Lantinghei SC,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif}</style>
 <script src="https://unpkg.com/github-comments/gc.js"></script>
-<div class="gc-comments" data-repos="liyun9/test0" data-issues="4" >
+<div class="gc-comments" data-repos="liyun9/test0" data-issues="1" >
     <div class="gc-comments-title">
         评论
     </div>
@@ -22,7 +22,7 @@
 </div>
 ```
 
-`issues_link` 会自动替换成 `https://github.com/liyun9/github-comments/issues/4`
+`issues_link` 会自动替换成 `https://github.com/liyun9/github-comments/issues/1`
 
 ### gc.load()
 
@@ -37,14 +37,14 @@ githubComments.load(repos, issues, element, noCommentsTip)
 | 参数 | 说明 | 示例 |
 | --- | --- | ---- |
 | repos | 项目地址 |[nimojs/blog](http://github.com/liyun9/test0) |
-| issues| issues id | [4](https://github.com/liyun9/test0/issues/4)
+| issues| issues id | [1](https://github.com/liyun9/test0/issues/1)
 | element | 渲染容器 | `"#demo"` `document.getElementById('demo')` `$('#demo')` |
 
 ```
 <div id="demo"></div>
 <script src="https://unpkg.com/github-comments@0.4.0/gc.js"></script>
 <script>
-gc.load('liyun9/test0', 4, '#demo')
+gc.load('liyun9/test0', 1, '#demo')
 </script>
 ```
 
