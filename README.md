@@ -5,7 +5,7 @@
 让评论质量更高，让网站与 Github 关联
 适合程序员的评论系统，基于 Github issues 留言
 
-[![preview](http://p5k7mvi7l.bkt.clouddn.com/Screenshot_20180313-170839-020.jpg)](http://liyun9.github.io/test0/)
+[![preview](http://p5k7mvi7l.bkt.clouddn.com/%E5%9B%BE%E7%89%871.png)](http://liyun9.github.io/test0/)
 
 ## 使用
 ### data-api
