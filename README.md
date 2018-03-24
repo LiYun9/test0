@@ -1,11 +1,11 @@
 # Github 留言系统
 
-[在线预览](http://liyun9.github.io/github-comments/)
+[在线预览](http://liyun9.github.io/test0/)
 
 让评论质量更高，让网站与 Github 关联
 适合程序员的评论系统，基于 Github issues 留言
 
-[![preview](https://cloud.githubusercontent.com/assets/3949015/11060115/1892a24c-87d9-11e5-80a0-651c60f90875.png)](http://liyun9.github.io/github-comments/)
+[![preview](http://p5k7mvi7l.bkt.clouddn.com/Screenshot_20180313-170839-020.jpg)](http://liyun9.github.io/test0/)
 
 ## 使用
 ### data-api
